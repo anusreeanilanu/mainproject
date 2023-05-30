@@ -1,0 +1,85 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&display=swap');
+
+.heading {
+    text-align: left;
+    font-family: 'Cinzel', serif;
+    padding: 80px;
+    font-size: 80px;
+    font-weight: bold;
+    color: #FFF;
+}
+
+.front {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+
+}
+ee time onl
+.f1 {
+    flex: 1;
+}
+
+.f2 {
+    flex: 1.5;
+    background: url('/static/C0L9XUTO_4x.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 13%;
+}
+
+.slogan {
+    color: #DFFFD8;
+    font-size: 60px;
+    padding-left: 80px;
+    font-family: 'Bebas Neue', cursive;
+}
+
+
+.intext {
+    display: block;
+    width: 500px;
+    height: 500px;
+    border: 3px solid #864f48;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    margin: 20px auto;
+}
+
+.cont {
+    display: flex;
+}
+
+.flex-child {
+    flex: 1;
+}  
+
+.flex-child:first-child {
+    margin-right: 20px;
+} 
+
+.submit {
+    position: absolute;
+    top: 190vh;
+    left: 47vw;
+}
+
+.result {
+    margin: 110px;
+    text-align: center;
+}
+
+span {
+    font-family: 'Kanit', sans-serif;
+    font-size: 40px;
+}
+
+.footer {
+    text-align: center;
+    background-color: #5b62ee;
+    padding: 7%;
+    color: #FFF;
+}
